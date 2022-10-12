@@ -20,7 +20,7 @@
 <img hspace="5" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img hspace="5" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-tile.svg" alt="git" width="40" height="40"/>
+<img hspace="5" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/>
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
