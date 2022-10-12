@@ -1,20 +1,22 @@
 
 
  <h1>
-  Hello, everyone!
+  Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div> My name's Ivan 
- <div> I'm a Data Scientist
+<div> Меня зовут Иван 
+ <div> И я Data Scientist
 </div> 
 
 <div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
  
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: Чаще всего работаю с машинным обучением
+- :seedling: Пробую использовать нейронные сети
+- : В свободное время ищу приключения в жизни вне компьютера 
+### :hammer_and_wrench: Languages and Tools :
+ 
 # это счетчик
  <img src="https://komarev.com/ghpvc/?username=IYuminov&style=flat-square&color=blue" alt=""/>
  
