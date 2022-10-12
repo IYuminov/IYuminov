@@ -15,12 +15,7 @@
 - 🔎 В свободное время ищу приключения вне компьютера
 
 ### :hammer_and_wrench: Languages and Tools:
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" hspace="5" alt="csharp" width="40" height="40"/>
-</a>
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
