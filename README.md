@@ -8,8 +8,7 @@
 </div> 
 <div align="center">
 <img src="https://media.giphy.com/media/5bgLjE2iQypE1uYIeA/giphy.gif" width="500" height="300"/>
-
- </div>
+</div>
 
 - 🖥 Чаще всего работаю с машинным обучением
 - 🤖 Пробую использовать нейронные сети
