@@ -1,10 +1,11 @@
 
 
  <h1>
-  Всем привет!
+  Hello, everyone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div>Я Data Scientist
+<div> My name's Ivan 
+ <div> I'm a Data Scientist
 <div align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -16,6 +17,8 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+# это счетчик
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
  
 <!--
 **IYuminov/IYuminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
