@@ -15,11 +15,15 @@
 - 🔎 В свободное время ищу приключения вне компьютера
 
 ### :hammer_and_wrench: Languages and Tools:
- 
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> 
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img hspace="5" src="https://raw.githubusercontent.com/facebookresearch/detectron2/7c2c8fb168a2093ce06a531c1208fba48d2984ec/.github/Detectron2-Logo-Horz.svg" alt="python" width="40" height="40"/>
+</a>  
+ 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/>
 </a> 
