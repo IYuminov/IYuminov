@@ -7,7 +7,7 @@
 И я Data Scientist
 </div> 
 <div align="center">
-<img src="https://media.giphy.com/media/5bgLjE2iQypE1uYIeA/giphy.gif" width="500" height="300"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 - 🖥 Чаще всего работаю с машинным обучением
