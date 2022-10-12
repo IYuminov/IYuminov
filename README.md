@@ -5,11 +5,11 @@
 <h1> Всем привет!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div><h2>
+<div><h3>
 Меня зовут Иван 🙂
 <div> 
 И я Data Scientist 💻
-</div><h2>
+</div><h3>
  
 - 🤖 Чаще всего работаю с машинным обучением
 - 🌱 Пробую использовать нейронные сети
