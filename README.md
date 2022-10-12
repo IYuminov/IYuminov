@@ -1,5 +1,5 @@
-
-<h1>Hello, everyone!
+<h1>Всем привет!
+ <h1> Меня зовут Иван и я Data Scientist
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
