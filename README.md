@@ -16,7 +16,7 @@
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 # это счетчик
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=IYuminov&style=flat-square&color=blue" alt=""/>
  
 <!--
 **IYuminov/IYuminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
