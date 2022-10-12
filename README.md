@@ -9,11 +9,12 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :hammer_and_wrench: Languages and Tools:
+
 - 🖥 Чаще всего работаю с машинным обучением
 - 🤖 Пробую использовать нейронные сети
 - 🔎 В свободное время ищу приключения в жизни вне компьютера 
-
+### :hammer_and_wrench: Languages and Tools:
+ 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" hspace="5" alt="c" width="40" height="40"/>
 </a>
