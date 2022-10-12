@@ -13,6 +13,12 @@
 </div>
  
  <img src="https://komarev.com/ghpvc/?username=IYuminov&style=flat-square&color=blue" alt=""/>
+ - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ 
 <!--
 **IYuminov/IYuminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
