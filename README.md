@@ -3,6 +3,7 @@
   Hello, everyone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+![til]([https://github.com/z01xy/z01xy/blob/main/github-user-contribution.svg](https://github.com/IYuminov/IYuminov/blob/main/giphy.gif))
 ![til](https://github.com/IYuminov/IYuminov/blob/main/giphy.gif)
 I wrote on the left of the page how to contact me
 <div id="header" align="center">
