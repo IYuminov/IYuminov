@@ -29,7 +29,9 @@
 <img hspace="5" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
 </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" hspace="5" alt="Pandas" width="40" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/pydata_pandas/images/3379b038-0796-45fe-8467-3fba66c10b70.svg" hspace="5" alt="Pandas" width="40" height="40"/>
+https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg
+
 </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" hspace="5" alt="Numpy" width="40" height="40"/>
