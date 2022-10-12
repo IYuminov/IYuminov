@@ -15,9 +15,6 @@
 - 🔎 В свободное время ищу приключения вне компьютера
 
 ### :hammer_and_wrench: Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" hspace="5" alt="c" width="40" height="40"/>
-</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
@@ -39,7 +36,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" hspace="5" alt="pandas" width="40" height="40"/>
 </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img  hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img  hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
