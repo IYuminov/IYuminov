@@ -45,6 +45,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/>
 </a>
+### :artificial_satellite: For communication:
 <a href="https://t.me/Ivan_Yuminov" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
