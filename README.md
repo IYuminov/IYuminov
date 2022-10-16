@@ -15,7 +15,7 @@ I'm a Data Scientist 💻
 - 🌱 grf
 - 🔎 grf
 
-<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+<a href="https://github.com/IYuminov/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IYuminov&layout=compact"/></a>
 
 ### :hammer_and_wrench: Languages and Tools:
 
