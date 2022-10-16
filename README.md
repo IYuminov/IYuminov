@@ -11,9 +11,9 @@ My name's Ivan 🙂
 I'm a Data Scientist 💻
 </div><h3>
  
-- 🤖 hgfd
-- 🌱 grf
-- 🔎 grf
+- 🤖 I'm currently working on machine learning project  
+- 🌱 I learn to be powerful in data science
+- 🔎 I’m looking for help with feature engineering
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=IYuminov&show_icons=true&count_private=true"><img
