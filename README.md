@@ -45,6 +45,8 @@ I'm a Data Scientist 💻
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img hspace="5" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/>
 </a>
+<a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </div><h3>
 :artificial_satellite: For communication:
 <br>
