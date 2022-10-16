@@ -2,18 +2,18 @@
 <div align="center">
 <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" width="500" height="300"/>
 </div>
-<h1> Всем привет!
+<h1> Hello, everyone!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div><h3>
-Меня зовут Иван 🙂
+My name's Ivan 🙂
 <div> 
-И я Data Scientist 💻
+I'm a Data Scientist 💻
 </div><h3>
  
-- 🤖 Работаю с машинным обучением
-- 🌱 Пробую использовать нейронные сети
-- 🔎 В свободное время ищу приключения вне компьютера
+- 🤖 hgfd
+- 🌱 grf
+- 🔎 grf
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -49,6 +49,9 @@
 :artificial_satellite: For communication:
 <br>
 <br>
+<a href="https://www.linkedin.com/in/ivanyuminov/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://t.me/Ivan_Yuminov" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
