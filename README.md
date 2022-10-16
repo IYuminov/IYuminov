@@ -52,9 +52,6 @@
 <a href="https://t.me/Ivan_Yuminov" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="ivanyuminov747@gmail.com" target="_blank" rel="noreferrer">
-<img hspace="5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Docker" width="40" height="40"/>
-</a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=IYuminov&style=flat-square&color=blue" alt=""/>
 
