@@ -9,7 +9,7 @@
 My name's Ivan 🙂
 <div> 
 I'm a Data Scientist 💻
-</div><h3>
+</div></h3>
  
 - 🤖 I'm currently working on machine learning project  
 - 🌱 I learn to be powerful in data science
