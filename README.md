@@ -65,7 +65,7 @@ I'm a Data Scientist 💻
 </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=IYuminov&style=flat-square&color=blue" alt=""/>
-
+</p>
 <!--
 **IYuminov/IYuminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
